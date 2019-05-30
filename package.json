@@ -1,0 +1,22 @@
+{
+  "name": "combining-languages-in-node",
+  "version": "1.0.0",
+  "description": "just having fun by using other languages inside node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vazgen6/combining-languages-in-node.js.git"
+  },
+  "author": "Vazgen Sargisian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vazgen6/combining-languages-in-node.js/issues"
+  },
+  "homepage": "https://github.com/vazgen6/combining-languages-in-node.js#readme",
+  "devDependencies": {
+    "ffi": "^2.3.0"
+  }
+}
